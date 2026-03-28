@@ -1,5 +1,7 @@
 digital_literacy_vityarthi
+
 DIGITAL LITERACY PROJECT
+
 Name : Namah Bhavsar
 
 Registration Number: 25BAI10235
@@ -7,6 +9,7 @@ Registration Number: 25BAI10235
 Course : CSE0001-Digital Literacy
 
 Project Overview
+
 This project is created as part of the Digital Literacy course. It demonstrates practical knowledge of digital tools, communication, online platforms, and cyber safety.
 
 ##Task Included Task 1: Digital Literacy Infographic
